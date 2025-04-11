@@ -56,7 +56,7 @@ cat <<EOF > /var/www/html/index.html
   <div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
     <div class="w3-display-topleft w3-padding-large w3-xlarge"></div>
     <div class="w3-display-middle w3-center">
-      <iframe src="https://i.pinimg.com/736x/e9/90/25/e990256687be9b08b96cfd9162980367.jpg"
+      <img src="https://i.pinimg.com/736x/e9/90/25/e990256687be9b08b96cfd9162980367.jpg"
               width="736"
               height="1104"
               style="border-radius:10px;"
