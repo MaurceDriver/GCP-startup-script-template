@@ -32,7 +32,7 @@ cat <<EOF > /var/www/html/index.html
     body,h1,h3 {font-family: "Raleway", sans-serif}
     body, html {height: 100%}
     .bgimg {
-      background-image: url('https://wallpapers.com/images/featured/smokey-background-f4qg8veneh4pw245.jpg');
+      background-image: url('https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/RoyalManiac13/phpMYs6R8.png');
       min-height: 100%;
       background-position: center;
       background-size: cover;
@@ -56,7 +56,7 @@ cat <<EOF > /var/www/html/index.html
   <div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
     <div class="w3-display-topleft w3-padding-large w3-xlarge"></div>
     <div class="w3-display-middle w3-center">
-      <iframe src="https://giphy.com/embed/xTiTnkCSkEeBijjq00"
+      <iframe src="https://i.pinimg.com/736x/e9/90/25/e990256687be9b08b96cfd9162980367.jpg"
               width="500"
               height="270"
               style="border-radius:10px;"
