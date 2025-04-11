@@ -57,8 +57,8 @@ cat <<EOF > /var/www/html/index.html
     <div class="w3-display-topleft w3-padding-large w3-xlarge"></div>
     <div class="w3-display-middle w3-center">
       <img src="https://i.pinimg.com/736x/e9/90/25/e990256687be9b08b96cfd9162980367.jpg"
-              width="800"
-              height="800"
+              width="650"
+              height="650"
               style="border-radius:10px;"
               frameBorder="0"
               class="giphy-embed"
