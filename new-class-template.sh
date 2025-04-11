@@ -75,7 +75,7 @@ cat <<EOF > /var/www/html/index.html
       </h3>
     </div>
     <div class="w3-display-bottomleft w3-padding-small transparent-background outlined-text">
-      <h1>Yo Mauricio quisiera decir gracias a Theo y Beron!</h1>
+      <h1>Maurice is the name and have 2 group leaders, Jerome & Uhuru Sol! As you can see I love latina women & chess!</h1>
       <h3></h3>
       <p><b>Instance Name:</b> $(hostname -f)</p>
       <p><b>Instance Private IP Address: </b> $local_ipv4</p>
