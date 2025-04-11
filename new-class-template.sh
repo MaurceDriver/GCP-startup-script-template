@@ -57,8 +57,8 @@ cat <<EOF > /var/www/html/index.html
     <div class="w3-display-topleft w3-padding-large w3-xlarge"></div>
     <div class="w3-display-middle w3-center">
       <iframe src="https://i.pinimg.com/736x/e9/90/25/e990256687be9b08b96cfd9162980367.jpg"
-              width="500"
-              height="270"
+              width="736"
+              height="1104"
               style="border-radius:10px;"
               frameBorder="0"
               class="giphy-embed"
@@ -75,7 +75,7 @@ cat <<EOF > /var/www/html/index.html
       </h3>
     </div>
     <div class="w3-display-bottomleft w3-padding-small transparent-background outlined-text">
-      <h1>Maurice is the name and have 2 group leaders, Jerome & Uhuru Sol! As you can see I love latina women & chess!</h1>
+      <h1>Yo Mauricio quisiera decir gracias a Theo y Beron!</h1>
       <h3></h3>
       <p><b>Instance Name:</b> $(hostname -f)</p>
       <p><b>Instance Private IP Address: </b> $local_ipv4</p>
