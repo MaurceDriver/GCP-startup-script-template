@@ -56,7 +56,7 @@ cat <<EOF > /var/www/html/index.html
   <div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
     <div class="w3-display-topleft w3-padding-large w3-xlarge"></div>
     <div class="w3-display-middle w3-center">
-      <iframe src=https://giphy.com/embed/xTiTnkCSkEeBijjq00" width="480" height="259" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/smoking-chris-tucker-friday-movie-xTiTnkCSkEeBijjq00">via GIPHY</a></p>"
+      <iframe src="https://giphy.com/embed/xTiTnkCSkEeBijjq00"
               width="500"
               height="270"
               style="border-radius:10px;"
